@@ -45,7 +45,7 @@ function Widget(props) {
           <div className="accordion-body">
             <div
               class="yotpo yotpo-pictures-widget"
-              data-gallery-id="66b67e43c402fa00239edab0"
+              data-gallery-id="66ac09e9073bd3002ae75a1c"
             ></div>
             <div
               className="yotpo-widget-instance"
